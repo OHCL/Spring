@@ -2,7 +2,7 @@ GITHUB INTEGRANTES
 - Nicolas Fuentes:
 https://github.com/Nicolas-jpg-maker/FullStack-Java.git
 - Octavio Castro:
-https://github.com/OHCL
+https://github.com/OHCL/Spring
 - Catalina Gonpar:
 https://github.com/CatalinaGonpar
 
